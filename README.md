@@ -22,6 +22,7 @@ Introduction: Managing a website can be complicated and time-consuming. So we pr
 ### [1.](#findings) Proactive Autonomy and Optimization 
 
 > (use case 1)
+> (red: no.2,5,6)
 
 Proactively look after the site and optimize it — not just wait for problems to be reported. The AI should constantly watch what’s happening, spot issues early, and fix or improve things on its own. Over time, it should learn and adapt to make user experience smoother and more personal.
 
@@ -51,6 +52,8 @@ Users are freed from constantly fixing technical problems. You can trust that th
 
 ### [2.](#findings) Adaptive Personalization and Content Strategy
 
+> (red: no.4, 5, 6,8)
+
 It uses your data — what you do, what you like, your past — to offer content, suggestions, and interactions that are relevant to *you*. It changes as you use it, so you always see things that are helpful now. It doesn’t stay the same—it adapts.
 
 > “Give me content drafts that already sound like me.”
@@ -71,6 +74,8 @@ It uses your data — what you do, what you like, your past — to offer content
 * If you have control (preferences + privacy), you feel safe and in charge.
 
 ### [3.](#findings) Trust and Ethical Assurance
+
+> (red: no.3,7,8)
 
 These agents often handle sensitive information and make decisions on their own, so people need to feel safe before relying on them. To build this trust, the system must be open about how it works, handle data responsibly, and always meet user expectations. This makes users more satisfied, confident, and loyal over time.
 
@@ -137,6 +142,8 @@ It’s important to clearly explain what the agent *can* and *cannot* do, follow
 
 ### [4.](#findings) Human-AI Collaboration and Problem Solving
 
+> (red: no.2, 5, 6, 8)
+
 Want both the AI and user to work together. The AI handles hard, data-heavy work; people give direction, make final decisions, and bring human insight. This teamwork makes solutions better, faster, and more reliable.
 
 > “When something breaks I want the AI to pair-debug with me.”
@@ -197,6 +204,8 @@ For a successful universal accessibility experience, AI agent web managers shoul
 
 ### [6.](#findings) Seamless Scalability and Integration
 
+> (red: no.4,7,8)
+
 using multi-agent frameworks implementing robust orchestration and communication tools for efficient multi-agent coordination, and leveraging predictive and real-time adaptation capabilities for dynamic response and proactive task management. Integration with external tools and digital interfaces is also key, allowing agents to access and utilize various systems to complete complex tasks effectively and provide a comprehensive, context-aware experience.
 
 **How seamless scalability and integration enhance the user experience:**
@@ -227,6 +236,8 @@ To ensure a positive user experience, web managers should follow these best prac
 - Use comprehensive monitoring tools and establish clear performance benchmarks (KPIs) to track agent behavior, analyze token usage, and identify bottlenecks. 
 
 ### [7.](#findings) Cross-Platform Orchestration and Integration
+
+> (red: no.4)
 
 includes a single interface where several AI agents, tools, and data sources work together to automate difficult processes and produce smooth, effective, and context-aware answers. The AI agent web manager simplifies workflows, cuts down on delays, and provides users with faster, more accurate information and decision-making by coordinating several specialized agents into a single, user-friendly platform. 
 
@@ -278,6 +289,7 @@ When a user types “Launch new product drop,” the brain:
 ### [8.](#findings) Predictive Insights and Strategic Foresight
 
 > (use case 2, 3, 5, 6)
+> (red: no.5, 8)
 
 Using predictive insights to anticipate user needs and strategic foresight to proactively guide users, ultimately leading to a more personalized, efficient, and proactive platform. This is achieved through a web manager that integrates these AI capabilities to analyze user data, predict behavior, suggest relevant actions, and automate processes, resulting in a seamless and intelligent user journey within the web environment.
 
@@ -335,6 +347,8 @@ Platforms and tools like Canva AI and various blog topic generators implement th
 
 ### [10.](#findings) Empowerment Through Education and Explainability
 
+> (red: no.7)
+
 The AI agent transforms from a simple tool into a mentor that actively builds user expertise. Rather than creating dependency, the system is designed to make users more knowledgeable and self-sufficient. Each interaction becomes a learning opportunity, clearer complex concepts and empowering users to make better strategic decisions.
 
 > “I want to learn why the AI did that so I can do it myself next time.”
@@ -360,6 +374,8 @@ The AI agent transforms from a simple tool into a mentor that actively builds us
 ---
 
 ![Proactive Autonomy](./public/1.png)
+
+![Proactive Autonomy](./public/2.png)
 
 <video width="100%" controls>
   <source src="./public/1.mp4" type="video/mp4">
