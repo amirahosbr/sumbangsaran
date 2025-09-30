@@ -16,6 +16,7 @@
     - AI researcher emphasizes, "The key is to set up the infrastructure to continuously collect data and feed it back to the algorithm to make the system better."
     - users trust AI systems more when they understand how decisions are being made and can override them when necessary.
 - [Agentic AI Products 2025](https://www.ibm.com/downloads/documents/us-en/137a1e23d85ba699)
+- [Agentic AI Systems Can Misbehave If Cornered](https://www.pymnts.com/artificial-intelligence-2/2025/agentic-ai-systems-can-misbehave-if-cornered-anthropic-says/)
 
 ## ai agent reviews
 

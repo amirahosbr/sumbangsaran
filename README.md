@@ -19,7 +19,9 @@ Purpose: To describe the complete user experience for a website owner or manager
 
 Introduction: Managing a website can be complicated and time-consuming. So we provide AI Agent Web Manager is designed to be your intelligent partner, taking over routine tasks, providing smart insights, and helping you grow your website effectively.
 
-### [1.](#findings) Proactive Autonomy and Optimization
+### [1.](#findings) Proactive Autonomy and Optimization 
+
+> (use case 1)
 
 Proactively look after the site and optimize it — not just wait for problems to be reported. The AI should constantly watch what’s happening, spot issues early, and fix or improve things on its own. Over time, it should learn and adapt to make user experience smoother and more personal.
 
@@ -27,7 +29,7 @@ Proactively look after the site and optimize it — not just wait for problems t
 
 **Proactive Autonomy:**
 
-- **Always watching and analyzing.** The AI agent observes how users move through pages (click paths), checks site speed, and watches for signs of trouble *before* users complain.
+- **Always watching and analyzing.** The AI agent observes how users move through pages (click paths), checks site speed, SEO,and watches for signs of trouble *before* users complain.
 - **Acts on its own.** Instead of waiting for instructions, the AI can reason about what’s wrong and take steps to fix or adjust—especially for complex tasks.
 - **Learns and adapts.** Using machine learning, the agent refines its behavior by analyzing data from users, improving its decisions as conditions change.
 - **Predicts and acts early.** The AI anticipates what users might want or run into, and presents solutions or relevant content before the user even asks — shifting from reactive to predictive.
@@ -162,6 +164,8 @@ Visibility into performance: Dashboards tracking key metrics, like automated res
 
 ### [5.](#findings) Accessibility
 
+> (use case 6)
+
 Accessibility creates an inclusive website experience for all users, including those with disabilities, while helping web managers meet legal requirements, boost user retention, and improve search engine rankings. By leveraging AI to detect issues, adapt interfaces, and simplify content, the agent acts as a powerful tool to make websites more usable for everyone.
 
 **Positive user experience advancements:**
@@ -273,6 +277,8 @@ When a user types “Launch new product drop,” the brain:
 
 ### [8.](#findings) Predictive Insights and Strategic Foresight
 
+> (use case 2, 3, 5, 6)
+
 Using predictive insights to anticipate user needs and strategic foresight to proactively guide users, ultimately leading to a more personalized, efficient, and proactive platform. This is achieved through a web manager that integrates these AI capabilities to analyze user data, predict behavior, suggest relevant actions, and automate processes, resulting in a seamless and intelligent user journey within the web environment.
 
 > “Show me where revenue will be in 90 days so I can adjust spend now.”
@@ -297,6 +303,8 @@ Using predictive insights to anticipate user needs and strategic foresight to pr
 - Continuous Learning: The agent improves its predictions and foresight through ongoing learning, creating a dynamic and adaptive user experience. 
 
 ### [9.](#findings) Creative Co-Pilot and Ideation
+
+> (use case 2, 4)
 
 a "Creative Co-Pilot" for ideation can be implemented to act as an intuitive assistant and collaborative partner. These agents function as collaborative partners, assisting with tasks like brainstorming, content generation, and refinement.
 
