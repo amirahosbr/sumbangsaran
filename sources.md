@@ -15,6 +15,7 @@
     - Renowned usability expert, suggests that "AI interfaces should make capabilities obvious without requiring users to guess what the system can do."
     - AI researcher emphasizes, "The key is to set up the infrastructure to continuously collect data and feed it back to the algorithm to make the system better."
     - users trust AI systems more when they understand how decisions are being made and can override them when necessary.
+- [Agentic AI Products 2025](https://www.ibm.com/downloads/documents/us-en/137a1e23d85ba699)
 
 ## ai agent reviews
 
@@ -28,4 +29,4 @@
 - [3. Trust & Ethical Assurance](https://www.sciencedirect.com/science/article/pii/S2444569X25001155)
 - [4. Human-AI Collaboration and Problem Solving](https://www.researchgate.net/publication/395582948_AI_Agents_with_Human-Like_Collaborative_Tools_Adaptive_Strategies_for_Enhanced_Problem-Solving)
 - [5. Universal Accessibility](https://www.uxtigers.com/post/ai-agents)
-- [7. Cross-Platform Orchestration](https://madgicx.com/blog/cross-platform-ai-orchestration)
+- [7. Cross-Platform Orchestration](https://madgicx.com/blog/cross-platform-ai-orchestration) | [7. Cross-Platform Orchestration](https://www.ibm.com/think/topics/ai-agent-orchestration)
