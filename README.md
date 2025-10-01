@@ -1,5 +1,12 @@
 > The UX is intended to be proactive, intelligent, and human-centric, where the AI serves as a powerful collaborator rather than just a tool.
 
+AI agent web manager should:
+1. **Be transparent** - Always explain what it's doing
+2. **Give control** - Let users pause, undo, or customize
+3. **Learn and adapt** - Get better with each interaction
+4. **Work for everyone** - Support different abilities and preferences
+5. **Handle mistakes well** - Quick fixes when things go wrong
+
 # 10 user experience if we provide ai agent product (ai agent web manager)
 
 1. [Proactive Autonomy and Optimization](#1-proactive-autonomy-and-optimization)
@@ -525,7 +532,7 @@ Using predictive insights to anticipate user needs and strategic foresight to pr
    - **Example**:
      - **Scenario**: A web manager for a news site improves content recommendations.
      - **Implementation**: The AI tracks user engagement (e.g., “60% of users click on recommended articles”) and uses user feedback (e.g., “Thumbs down for irrelevant content”) to retrain the model, improving accuracy to 75%.
-     
+
 ### [9.](#findings) Creative Co-Pilot and Ideation
 
 > (use case 2, 4)
