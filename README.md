@@ -85,6 +85,7 @@ Users are freed from constantly fixing technical problems. You can trust that th
 ### [2.](#findings) Adaptive Personalization and Content Strategy
 
 > (red: no.4, 5, 6,8)
+> s: no.1
 
 It uses your data — what you do, what you like, your past — to offer content, suggestions, and interactions that are relevant to *you*. It changes as you use it, so you always see things that are helpful now. It doesn’t stay the same—it adapts.
 
@@ -536,6 +537,7 @@ Using predictive insights to anticipate user needs and strategic foresight to pr
 ### [9.](#findings) Creative Co-Pilot and Ideation
 
 > (use case 2, 4)
+> s: no.2
 
 a "Creative Co-Pilot" for ideation can be implemented to act as an intuitive assistant and collaborative partner. These agents function as collaborative partners, assisting with tasks like brainstorming, content generation, and refinement.
 
@@ -674,3 +676,7 @@ The AI agent transforms from a simple tool into a mentor that actively builds us
 - [4. Human-AI Collaboration and Problem Solving](https://www.researchgate.net/publication/395582948_AI_Agents_with_Human-Like_Collaborative_Tools_Adaptive_Strategies_for_Enhanced_Problem-Solving)
 - [5. Universal Accessibility](https://www.uxtigers.com/post/ai-agents)
 - [7. Cross-Platform Orchestration](https://madgicx.com/blog/cross-platform-ai-orchestration) | [7. Cross-Platform Orchestration](https://www.ibm.com/think/topics/ai-agent-orchestration)
+
+
+1. [spec.md](spec.md)
+2. [example.md](example.md)
