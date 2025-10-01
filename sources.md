@@ -17,6 +17,8 @@
     - users trust AI systems more when they understand how decisions are being made and can override them when necessary.
 - [Agentic AI Products 2025](https://www.ibm.com/downloads/documents/us-en/137a1e23d85ba699)
 - [Agentic AI Systems Can Misbehave If Cornered](https://www.pymnts.com/artificial-intelligence-2/2025/agentic-ai-systems-can-misbehave-if-cornered-anthropic-says/)
+- [MCP vs A2A: Key Differences for AI Agent Protocols](https://codingscape.com/blog/mcp-vs-a2a-key-differences-for-ai-agent-protocols)
+- [IBM: Multi-Agent Systems](https://www.ibm.com/think/topics/multiagent-system)
 
 ## ai agent reviews
 
