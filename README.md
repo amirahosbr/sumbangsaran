@@ -648,10 +648,9 @@ The AI agent transforms from a simple tool into a mentor that actively builds us
 
 ![Proactive Autonomy](./public/2.png)
 
-<video width="100%" controls>
-  <source src="./public/1.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/4c67b6ef-aa50-4b0b-8922-e3a2ebf6fc02
+
 
 ---
 
