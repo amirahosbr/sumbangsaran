@@ -1,3 +1,14 @@
+# Types of Digital Marketing
+
+The different types of digital marketing include...
+
+- Content marketing
+- Search engine optimization
+- Search engine marketing
+- Affiliate marketing
+- Email marketing
+- Social media marketing
+
 # Presentation Script: Expanding HUCA to AI Marketing Manager for OZ Website
 
 > a character-designed brand ambassador that drives business-focused marketing to boost company's brand and revenue.
@@ -52,3 +63,47 @@ HUCA is already on your site—great for answers. Now, expand to AI Marketing Ma
 
 ## Conclusion: Let’s Grow Together
 This AI Marketing Manager turns your OZ website into a revenue machine. It starts with HUCA, adds smart marketing. Yo-san’s vision makes it strong. What do you think? We can demo or customize for Japan. Thank you!
+
+# v2
+
+# Presentation Script: OZ Builds CapyOZ with HUCA
+
+## Introduction: A Marketing Quest
+Hello, OZ team. Thank you for joining. I’m from our company. Let’s dive into a story about your marketing manager’s big idea.
+
+One day, OZ’s marketing manager, running a creative agency, searches for ways to boost sales. He spots HUCA, a top-ranked character design generator, leading in SEO. Curious, he clicks the app. HUCA creates unique AI brand ambassadors. OZ jumps in, entering details—creative services, bold values—and picks a capybara character. HUCA crafts CapyOZ, a cute ambassador! Now, CapyOZ drives marketing to grow OZ’s clients. We’ll use terms like “grow clients” or “smart boost” for clarity. Each part has a new chapter. Let’s go!
+
+## Tier 1: User Experience (UX) - A Client Finds OZ
+**Chapter**: The Café Owner’s First Step
+
+A small café owner needs a fresh brand. She visits OZ’s site. CapyOZ, the capybara, greets her, “Need a cool design? OZ’s got you!” She feels welcomed, exploring services easily. The site ranks high with “OZ creative Japan,” drawing her in.
+
+**Story**: The owner loves CapyOZ’s charm. She books a design, thrilled by the easy vibe. OZ gains a new client.
+
+## Tier 2: Functionalities - A Client Stays with OZ
+**Chapter**: The Café’s Big Launch
+
+The café owner wants to shine online. CapyOZ springs into action, sending a LINE post, “Check OZ’s café design!” OZ’s team logs into HUCA, asking for a 500-word blog. CapyOZ writes it, updating the site with flair.
+
+**Story**: The post goes live, the blog “OZ Café Trends 2025” draws crowds. The owner hires OZ again, boosting sales.
+
+## Tier 3: Fundamentals - A Campaign Soars
+**Chapter**: OZ’s New Service Takes Off
+
+OZ launches a digital package. CapyOZ orchestrates it all—picking tools like LINE, ensuring safety with no errors, and handing off big tasks to your team. It schedules posts for peak times, logs results, and manages assets.
+
+**Story**: CapyOZ plans a campaign, tracks success, and supports your team. OZ’s brand buzzes, attracting more clients.
+
+## Why CapyOZ Works for OZ
+- **Grow Clients**: Matches services to their needs.
+- **Smart Plan**: Builds a clear path to success.
+- **Stand Out**: CapyOZ’s charm sets OZ apart.
+- **Adapt Fast**: Evolves with market trends.
+
+## How HUCA Boosts OZ
+- **Create Your Star**: OZ builds CapyOZ with HUCA, lifting your brand.
+- **Easy Launch**: Input info to start marketing magic.
+- **Japan Power**: Uses LINE (96M users) and SEO for trust.
+
+## Conclusion
+HUCA’s CapyOZ turns OZ into a client magnet, growing sales with fun strategy. OZ team, what do you think? Ready to try it? Thank you!

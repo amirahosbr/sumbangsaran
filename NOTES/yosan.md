@@ -62,3 +62,28 @@ What are the seven layers of the OSI model?
 **- example me: it took me 4-5 years to get this amount of followers. the way i do is mostly either post everyday.. or post something interesting, something current issues, to debate, to discuss...**
 - source: sento kun
 - more branding upstream. can create marketing software strategy. but how? eg; character approach. how to improve our marketing web service to people?
+
+# Weekly Meeting with yosan (friday, 3 oct 2025)
+
+- dig deeper later for the 3 user scenarios.
+- hypothesis/summary or biased idea of why their sales decrease (like for expert in marketing).
+- earned media (free exposure a brand receives from third parties, such as customers or the press, without direct payment, encompassing content like articles, reviews, and social shares.) -> maybe having ai cms is helpful. like daily.dev??
+- scenario 3: enhance experience like color scheme, font, logo, etc. ideas. display example like this.. when raj suggest: branding guidleine/branding design (https://www.flux-academy.com/blog/what-is-brand-design)
+- What is the purpose of a moodboard? -> One of the major purposes of a mood board is to help visualise ideas and bring them to life in more than just words.
+- focus on localized first, then global. (chart for KB). also maybe can combine international and localization.. maybe ai can do that to filter out the content.
+- assets store. need assets store.
+    - functionalities where ai can generate assets. files that we can manage.. asset management.
+- task management: every execution in ai model, better acute... not only one user use ai agent, can multiple users use ai agent. occasional.. how to manage that?
+- like audit log...
+- data protection and privacy.
+- basically, autonomous.. need to have safeguard.. not adhoc functionalities.
+- but fundamental functionalities...
+- 
+
+Revenue planning:
+
+- eg; how to get 3m yen in 3rd quarter
+- kpi: monthly, quarterly, yearly.
+- eg; 10 clients in first month..
+- the way we acquire customers as well.
+- 
