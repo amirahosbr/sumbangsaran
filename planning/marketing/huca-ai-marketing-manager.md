@@ -1,5 +1,7 @@
 # Presentation Script: Expanding HUCA to AI Marketing Manager for OZ Website
 
+> a character-designed brand ambassador that drives business-focused marketing to boost company's brand and revenue.
+
 ## Introduction: Hello and Our Story
 Hello, team at OZ. Thank you for meeting. I am from our company. We already integrated HUCA into your Japanese website. HUCA is our headless chatbot—it helps answer questions from visitors using AI and your data.
 
