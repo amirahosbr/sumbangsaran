@@ -117,4 +117,54 @@ Revenue planning:
   - not focus on fe or be... focus on domain entity.
   - creating until december on webservice with front end and database...
 
-- that have own character maybe can join secret agency huca... (maybe was thinking like create a community of character?? -> one day to have own public community, meetups of among agent...(sounds fishy??? mlm?))
+- that have own character maybe can join secret agency huca... (maybe was thinking like create a community of character?? -> my idea: one day to have own public community, meetups of among agent...(sounds fishy??? mlm?))
+
+---
+
+# Monday, 13 oct 2025
+
+Yosan's vision:
+
+- aws lambda - integration with aws lambda and aws sns (aws notification service) (example like step function)
+- by writing yaml we can define the workflow. why not ai to do the same thing do the workflow... not syntax but semantic... we provide gonna use semantic step function to our ai implementation. so they can compose the workflow...
+- we need to specify our tools... we need to enforce our ai to ??? -> no need complicated... just simple..
+- ai native (we delegate more on ai side...)
+- providing nlp to user not always better... sometimes we need to provide more context...
+- openai adhoc mcp, they can render gui inisde the chatgpt window... we still need optimize ui...
+- we want ai to optimize the gui and based on context of input like in form...
+- ex; mu-san just show adress only if user want to update the adress... we need delegation in ai such as yaml, semantic,
+- let ai do more... as ai specialise developer...
+
+GOAL (AI-driven workflow orchestration system):
+
+- ai generated yaml.. then yaml gonna execute our workflow...
+- maybe ai provide in yaml for loop to summarize something... we just processsed the yaml ... so if want to ai generate workflow, dont have to be yaml.. can be json..
+- single function in multiple workflow inside... predefined functions, and template workflows so ai will generate the ...
+
+> Yes — it’s completely possible and very powerful to have AI generate YAML workflows that call TypeScript-defined functions.
+
+**my task 13 oct + 14 oct:**
+
+- focus on cli
+- git pull from main (after merge with spencer) and build cli
+- AI can generate workflow instructions in YAML/JSON, and my TypeScript code automatically executes them step-by-step. It's like having AI write automation scripts that actually run.
+
+---
+
+oct 14
+
+more mcp tools more messy to data output... dont want to have too many mcp tools to ai agent.
+crud storages mcp tools.
+so we plan to let ai choose which tools and what tools best to use. (divide n conquer)
+how to realize good context
+
+```ts
+// not recommend enum in TS and switch (statement return nothing, expression return value) in functional programming.
+// enum is adt (algebraic data type) in functional programming.
+// exhaustive switch syntax not good, return everything (they cover all cases, if not cover all compilation error).
+// ts compiler not check non exhaustive switch usage.
+// enum + namespace
+// namespace can be reconsider...
+// as const is good for tuple, object, array, function. not okay as Type A, or ad Type B....
+// Step A, Step B
+```
